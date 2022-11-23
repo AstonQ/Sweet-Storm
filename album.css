@@ -1,0 +1,45 @@
+.top-img {
+  width: 80%;
+  height: auto;
+  margin-top: 40px;
+}
+
+.top {
+  text-align: center;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: 0.25rem;
+}
+
+.card {
+  border: none;
+}
+
+.navbar,
+.collapse,
+.collapsing {
+  background-color: #c96ba6;
+}
+
+footer {
+  background-color: #c96ba6;
+}
+
+.colored {
+  color: #fff;
+  text-decoration: none;
+}
+
+.text-white {
+  text-decoration: none;
+}
+
+.social-contact {
+  margin-right: 1rem;
+}
